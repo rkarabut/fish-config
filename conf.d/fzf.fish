@@ -1,0 +1,1 @@
+/home/ubuntu/.config/fisherman/fzf/conf.d/fzf.fish
